@@ -36,6 +36,13 @@ In Fast Reconstruction Mode, E-3DGS achieves a PSNR gain of 5.68dB over EventNeR
 In the HighQuality Reconstruction Mode, E-3DGS delivers a PSNR increase of 10.89 dB compared to the event-to-grayscale learning-based 3DGS baseline.
 In the future, we intend to explore the application and enhancement of E-3DGS based on exposure events for dense robotic perception, aiming to achieve higher-quality large-scale dense 3D reconstruction using purely event-based data.
 
+# Qualitative Results
+Here is a demonstration of the qualitative results use real event sequences:
+
+<div align="center">
+  <img src="./assets/Real_data_results.gif" alt="Qualitative Results" width="88%">
+</div>
+
 # TODO
 
 - [ ] Release the code.
